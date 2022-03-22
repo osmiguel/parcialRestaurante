@@ -1,0 +1,19 @@
+
+Que diferencia hay entre un igual ( = ) y un doble ( == ):
+- = funciona para asignar valor a una variable, ejemplo int numero = 3.
+- == igual se utiliza como comparador, ejemplo if ( num 1 == num2).
+
+Cuales son los tipos de datos básico de java:
+- entre los datos basicos estan int, float, double, char, string.
+
+Quién es la empresa que actualmente se encarga de mantener el desarrollo de 
+java:
+-Oracle.
+
+En qué otros campos se puede utilizar java para crear software:
+- Entretenimiento.
+- Educacion.
+- Aplicaciones móviles.
+
+
+
